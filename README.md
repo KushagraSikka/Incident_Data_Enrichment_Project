@@ -125,6 +125,63 @@ This submission includes the following components:
 - **tests/**: Contains pytest files for testing different components of the project.
 - **setup.py**: For project setup and pytest integration.
 
+## Motivation
+
+- **Purpose:** The dataset was created to enhance the usability of police incident data extracted from PDF reports by adding additional attributes such as day of the week, time of day, weather conditions, location rank, side of town, incident rank, nature of the incident, and EMS status.
+- **Creators:** Kushagra Sikka.
+- **Funding:** The dataset creation was not funded externally.
+- **Comments:** No additional comments.
+
+## Composition
+
+- **Instances:** The dataset consists of structured records representing police incident reports.
+- **Total Instances:** Variable based on the input CSV file.
+- **Sample or Full Set:** The dataset is a sample extracted from a larger set of police incident reports available on public police department websites.
+- **Data Fields:** Each instance includes attributes such as day of the week, time of day, weather, location rank, side of town, incident rank, nature of the incident, and EMS status.
+- **Label or Target:** Not applicable.
+- **Missing Information:** No information is intentionally missing from the instances.
+- **Explicit Relationships:** Not applicable.
+- **Data Splits:** Not applicable.
+- **Errors or Noise:** No significant errors, noise, or redundancies in the dataset.
+
+## Collection Process
+
+- **Data Acquisition:** The dataset is collected from publicly available police department PDF reports using automated extraction methods.
+- **Mechanisms:** Data extraction is performed using custom Python scripts.
+- **Sampling Strategy:** Not applicable.
+- **Participants:** The dataset creator, Kushagra Sikka, was involved in the data collection process.
+- **Timeframe:** Data collection occurred during the extraction process.
+- **Ethical Review:** No formal ethical review was conducted.
+
+## Preprocessing/Cleaning/Labeling
+
+- **Preprocessing:** Data cleaning involves extracting relevant information from PDF reports and structuring it into a tabular format.
+- **Raw Data:** Only preprocessed data is included in the dataset.
+- **Availability:** Preprocessing scripts are available upon request.
+
+## Uses
+
+- **Prior Usage:** The dataset has been used for data analysis and augmentation tasks.
+- **Repository:** No specific repository links are provided.
+- **Potential Uses:** The dataset can be used for further analysis, research, and application development in law enforcement and public safety domains.
+
+## Distribution
+
+- **Third-Party Distribution:** Distribution to third parties is not currently planned.
+- **Distribution Method:** The dataset is distributed as CSV files.
+- **DOI:** No DOI is assigned to the dataset.
+- **Distribution Timing:** The dataset is available upon request.
+- **Licensing:** The dataset is provided under a standard academic license.
+- **External Restrictions:** No external restrictions are associated with the dataset.
+- **Export Controls:** No export controls apply to the dataset.
+
+## Maintenance
+
+- **Support/Hosting:** The dataset is maintained by the dataset creator.
+- **Contact Information:** Contact Kushagra Sikka for inquiries or support.
+- **Erratum:** No errata exist for the dataset.
+- **Updates:** Updates to the dataset will be communicated directly to users.
+
 ## Known Issues and Assumptions
 
 [NO known issues]
