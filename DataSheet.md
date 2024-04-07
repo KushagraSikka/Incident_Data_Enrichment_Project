@@ -1,20 +1,20 @@
 ## Datasheet for Dataset: Augmented Police Incident Reports
 
-##Dataset Information Dataset Name:
+## Dataset Information Dataset Name:
 #Augmented Police Incident Reports
 
-#Description:
+# Description:
 This dataset contains augmented data extracted from public police department PDF reports. The augmentation includes additional derived attributes like the day of the week, time of day, weather conditions, location rank, side of town, incident rank, nature of the incident, and EMS status.
 
-#Version:
+# Version:
 1.0
 #Creation Date:
 April 6, 2024
 
-#Last Updated:
+# Last Updated:
 
 April 6, 2024
-#Data Source:
+# Data Source:
 
 Public police department PDF reports.
 Data Augmentation Details:
