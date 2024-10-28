@@ -1,5 +1,10 @@
 # CIS 6930, Spring 2024 Assignment 2: Augmenting Data
 
+##Video explaining what function is doing what?
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/1vy1jD-YccVTNjuZ0hWv1OyJANR6g1Jqc/view?usp=sharing)
+
+
+
 ## Introduction
 
 In Assignment 0, we wrote code to extract records from a public police department website. The code we created structures the data in a format helpful for analysis. For further data processing, we need to perform data augmentation on the extracted records, keeping fairness and bias issues in mind.
